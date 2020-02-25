@@ -19,8 +19,8 @@
 
 ## 下载
 
-windows版： `https://pan.baidu.com/s/1_2hFS-HYzmUyvAgBJMaDtg` 提取码: `jm27`
-linux版： `https://pan.baidu.com/s/1B50Vd8CyHSRsJVvifP0PTw` 提取码: `a1us`
+- windows版： `https://pan.baidu.com/s/1_2hFS-HYzmUyvAgBJMaDtg` 提取码: `jm27`
+- linux版： `https://pan.baidu.com/s/1B50Vd8CyHSRsJVvifP0PTw` 提取码: `a1us`
 
 ## 截图
 
