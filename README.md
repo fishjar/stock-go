@@ -17,6 +17,11 @@
 
 示例： `xq_a_token=b2f87b997a1558e1023f18af36cab23af8d202ea;`
 
+## 下载
+
+windows版： `https://pan.baidu.com/s/1_2hFS-HYzmUyvAgBJMaDtg` 提取码: `jm27`
+linux版： `https://pan.baidu.com/s/1B50Vd8CyHSRsJVvifP0PTw` 提取码: `a1us`
+
 ## 截图
 
 ![stock go screenshot 1](/screenshot/01.png)
